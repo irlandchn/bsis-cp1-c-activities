@@ -6,7 +6,7 @@ int n1, n2, n3;
 system("color 2");
 
 printf("Created by: Luzong, John Roland C.\n");
-printf("BSIS-1AM\n\n\n");
+printf("BSIS-1A-M\n\n\n");
 
 printf("Input the First Number:\t");
 scanf("%d", &n1);
